@@ -1,1 +1,1 @@
-# Facial-Recognition_IPR-Final-Project
+Tired of manually verifying faces aganist ID manually? Here, as a part of the Image Processing and Recognition class, we improvise an advanced facial recognition that could be deployed quickly on any machine with a Python enviroment.
