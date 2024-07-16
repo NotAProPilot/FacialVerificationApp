@@ -14,9 +14,10 @@ The script works in 3 stages:
 - [[OpenCV]](https://opencv.org/releases/)
 - [[Pillow]](https://pypi.org/project/pillow/)
 # Usage guide
-1. Run the program from `GUI.py`.. 
+1. Run the program from `GUI.py`.
 2. A pop-up will appear as follows: ![image](https://github.com/user-attachments/assets/3407d3c1-0328-461b-ba01-83991ddfb378)
-3. Click on the "Upload Photo" button to upload a photo ID.
+3. Click on the "Upload Photo" button to upload a photo ID. ![image](https://github.com/user-attachments/assets/fa13db5e-91de-4992-9118-063069477f0d)
+
 4. Click on the "Capture Photo from Webcam" to continue.
 5. The webcam will open. Look straight at the webcam. When ready, press Enter to continue.
 6. Press "Verify" to complete the process. 
